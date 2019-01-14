@@ -1,16 +1,16 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
+date = 2019-01-13T00:00:00
 
 # Activate this widget? true/false
-active = true
+active = false
 
 title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 1
 
 # Showcase personal skills or business features.
 # 

@@ -1,40 +1,35 @@
 +++
 # About/Biography widget.
 widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+active = false
+date = 2019-01-13T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "High-throughput data analysis",
+    "Microbiome-host interactions",
+    "Mission-driven entrepreneuship"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Microbiology"
+  institution = "Massachusetts Institute of Technology"
+  year = 2019
+
+[[education.courses]]
+  course = "BS in Biology"
+  institution = "Brown University"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Summary
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data scientist with experimental and computational expertise in integrating diverse data types from clinical and environmental sources. I currently work as a PhD student with [Eric Alm](http://almlab.mit.edu) at MIT, studying how interactions between the bacteria in our gut and our immune system generate disease. Specifically, I focus on systemic effects of fecal tranplants---putting poop from a healthy donor into a sick recipient---in patients with inflammatory bowel disease.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+More broadly, I get excited about projects that bring technologies from genomic science to the people and systems they might benefit, particularly in underserved areas of health and sustainability. 
