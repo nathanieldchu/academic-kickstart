@@ -31,12 +31,12 @@ weight = 2
   icon = "fish"
   icon_pack = "fas"
   name = "Marine microbiology and genomics"
-  description = "As a U.S. Fulbright Fellow, I used metagenomics to study the distribution of bacteria across reef-building corals in the Caribbean."
+  description = "As a U.S. Fulbright Fellow, I used metagenomics to study the distribution of bacteria and pathogens across reef-building corals in the Caribbean."
   
 [[feature]]
   icon = "water"
   icon_pack = "fas"
   name = "Coastal phylogenomics"
-  description = "I identified population structure in a marine snail that mirrored its colonization history and possible thermal adaptation."  
+  description = "I identified genetic population structure in a marine snail that mirrored its colonization history and possible thermal adaptation."  
 
 +++

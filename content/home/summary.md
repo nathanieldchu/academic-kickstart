@@ -30,6 +30,6 @@ weight = 1
 
 # Summary
 
-I am a computational biologist with expertise in integrating diverse data types from clinical and environmental sources. I currently work as a PhD student with [Eric Alm](http://almlab.mit.edu) at MIT, studying how interactions between the bacteria in our gut and our immune system generate disease. Specifically, I focus on systemic effects of fecal tranplants---putting poop from a healthy donor into a sick recipient---in patients with inflammatory bowel disease.
+I am a computational biologist with expertise in integrating diverse data types from clinical and environmental sources. I currently work as a PhD student with [Eric Alm](http://almlab.mit.edu) at MIT, studying how interactions between the bacteria in our gut and our immune system generate disease. Specifically, I focus on the effects of fecal tranplants---transferring stool from a healthy donor into a sick recipient---in patients with inflammatory bowel disease.
 
 More broadly, I get excited about projects that bring technologies from genomic science to the people and systems they might benefit, particularly in underserved areas of health and sustainability. 

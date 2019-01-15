@@ -15,18 +15,18 @@ weight = 3
 
 +++
 
-## Value time
+## <i class="fas fa-clock" style="color:hsl(209, 100%, 50%)"></i> Value time 
 
-Given the brevity of my existence, I want to make the most of every moment. Every second should be spent creating value, whether that value is to me, for society, or for the world. 
+Given the brevity of life, I want to make the most of every moment. Every second should be spent creating value, whether that value is to me, others, or the world. 
 
-## Live thoughtfully 
+## <i class="fas fa-brain" style="color:hsl(209, 100%, 50%)"></i> Live thoughtfully 
 
-I strive to analyze every action's inspiration, implementation, and consequence. Where do my biases come from? How does a decision fit into my goals? What behaviors must I change to better align with my values?
+I strive to analyze every action's inspiration, implementation, and consequence. What is my bias? How do decisions fit into my goals? What behaviors must change to align with my values?
 
-## Seek growth
+## <i class="fas fa-seedling" style="color:hsl(209, 100%, 50%)"></i> Seek growth
 
-Enjoying life optmizes two kinds of happiness: in-the-moment joy and life satisfaction. To achieve the latter, I seek learning opportunities that will fundamentally challenge my skills, my beliefs, and my confidence.
+Enjoying life optmizes two kinds of happiness: in-the-moment joy and life satisfaction. To achieve the latter, I seek learning opportunities that will fundamentally challenge my skills, beliefs, and confidence.
 
-## Be open
+## <i class="fas fa-lock-open" style="color:hsl(209, 100%, 50%)"></i> Be open
 
-Building relationships, developing ideas, and creating value are all accelerated by being open, which means both letting thoughts out and letting them in. 
+Building relationships, developing ideas, and creating value are all accelerated by being open, which means both letting thoughts out and letting them in.

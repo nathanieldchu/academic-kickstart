@@ -15,12 +15,10 @@ weight = 2
 
 +++
 
-I steer my life by two principles, from which come two corresponding goals.
+## <i class="fas fa-gem" style="color:hsl(209, 100%, 50%)"></i> Life is rare, enjoy it
 
-## Principle #1: Life is rare, enjoy it
+The probability that the unique physical, biochemical, and social events occured in the exact sequence to produce me is *unfathomably* small. Because of that rarity, **I am enjoying life** during my jackpot chance to exist. Everything I do, I do becuase I want to.
 
-The probability that the unique physical, biochemical, and social events came together in the exact sequence to produce me is *unfathomably* small. Because of that rarity, **I am compelled to have a blast** during my jackpot chance to exist. Everything I do, I do becuase I want to. I love science. I love being outside. And boy do I love blueberries.
+## <i class="fas fa-globe-africa" style="color:hsl(209, 100%, 50%)"></i> The chance to live is worth sharing
 
-## Principle #2: The chance to live is worth sharing
-
-The first principle naturally sets up the second, which is to work to enable other organisms---human or otherwise---to experience life as well. Such work might be environmental conservation, improving public health, or providing some small service to a worthy cause. Storybooks taught us to be heroes and make the world a better place. Why would you do anything else?
+Grateful for my chance to live, I want to work so that other organisms---human or otherwise---can experience life as well. Storybooks taught us make the world a better place. How could you do anything else?
