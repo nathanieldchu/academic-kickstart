@@ -17,18 +17,18 @@ weight = 1
 
 ## Where am I now?
 
-I am a PhD student and NSF Graduate Research Fellow with [Eric Alm](http://almlab.mit.edu/index.html) in the [Department of Biological Engineering](https://be.mit.edu) at MIT. My [research projects](https://nathanieldchu.github.io/research/) touch a wide range of topics, but they all pivot around using high-throughput data, computational analysis, and principles from ecology and evolution to understand problems in human health.
+I am a PhD student and NSF Graduate Research Fellow with [Eric Alm](http://almlab.mit.edu/index.html) in the [Department of Biological Engineering](https://be.mit.edu) at MIT. My [research](https://nathanieldchu.github.io/research/) revolves around using high-throughput data, computational analysis, and principles from ecology and evolution to understand problems in human health.
 
 * Can we treat or prevent diseases (e.g., inflammatory bowel disease) by manipulating the gut microbiome---the bacteria, fungi, and viruses that live in our gut?
-* Can we use metabolomics---high throughput measurements of thousands of molecules in blood or urine---to understand patient heterogeneity and inform clinical decisions?
+* Can we diagnose diseases that lack robust clinical tests (e.g., depression) using metabolomics---a method that simultaneously measures thousand of molecules in blood or urine?
 
-Beyond human health, I also spend a lot of time thinking about sustainability and conservation. I devote much of my time outside of lab to personal growth through [alpinism](https://nathanieldchu.github.io/blog/) and [rock climbing](https://www.mountainproject.com/user/111841723/nd-chu).
+Beyond human health, I also spend a lot of time thinking about sustainability and conservation. I persue personal growth outside of science through [alpinism](https://nathanieldchu.github.io/blog/) and [rock climbing](https://www.mountainproject.com/user/111841723/nd-chu).
 
 ## Where am I going?
 
-In my next stage, I am pivoting from academia to entrepreneuship, in order to bring my research closer to the people or systems it benefits. Such a stage could take three forms:
+In my next stage, I am pivoting from academia to entrepreneuship to bring my research closer to the people it benefits. I am exploring the following positions:
 
-1. A post-doc position aimed at proof-of-principle studies
+1. A post-doc aimed at proof-of-principle studies
 2. Founding a company
 3. Joining a small company
 

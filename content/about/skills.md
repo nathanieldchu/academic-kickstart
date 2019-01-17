@@ -15,23 +15,22 @@ weight = 2
 
 +++
 
-## Computational
+## <i class="fas fa-laptop" style="color:hsl(339, 90%, 68%)"></i> Computation
 
-* Statistical analysis and machine learning in **Python** and **R**
-* **Unix** environment and virtual environments
-* Administration and scaling of **AWS resources**
-* **Building user-friendly tools** for analyzing genomic data
+* Statistical analysis and machine learning in <i class="fab fa-python" style="color:hsl(339, 90%, 68%)"></i> **Python** and <i class="fab fa-r-project" style="color:hsl(339, 90%, 68%)"></i>
+* <i class="fab fa-linux" style="color:hsl(339, 90%, 68%)"></i> (**Unix**) environment and virtual environments
+* Administration and scaling of cloud computing with <i class="fab fa-aws" style="color:hsl(339, 90%, 68%)"></i>
 
-## Data
+## <i class="fas fa-chart-line" style="color:hsl(339, 90%, 68%)"></i> Data
 
-* **Genomic data**: human genomes, bacterial genomes, viral genomes, shotgun metagenomics, immunoglobulin-A sequencing
+* **Genomic data**: human genomes, bacterial genomes, viral genomes, metagenomics
 * **Gene expression data**: RNA-seq, single-cell RNA-seq, metatranscriptomic
 * **Metabolomic data**
-* **Immune repertoire data**: T cell receptors, B cell receptors, FACS
+* **Immune repertoire data**: T cell receptors, B cell receptors
 
-## Experimental
+## <i class="fas fa-flask" style="color:hsl(339, 90%, 68%)"></i> Experiment
 
-* High-throughput data generation from **clinical** (e.g., blood, stool, biopsy) and **environmental** (e.g., water, soil) samples
-* **Coordination of clinical sample collection** of unorthodox tissues (e.g., stool)
+* High-throughput data generation from **clinical** (e.g., blood, stool, biopsy) and **environmental** (e.g., water) samples
+* **Coordination of clinical sample collection** 
 * Obtaining **regulatory approval** for clinical trials and research
 * **Bacterial isolation** and genetic manipulation

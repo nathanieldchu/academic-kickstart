@@ -15,10 +15,10 @@ weight = 2
 
 +++
 
-## <i class="fas fa-gem" style="color:hsl(209, 100%, 50%)"></i> Life is rare, enjoy it
+## <i class="fas fa-gem" style="color:hsl(160, 100%, 50%)"></i> Life is rare, enjoy it
 
-The probability that the unique physical, biochemical, and social events occured in the exact sequence to produce me is *unfathomably* small. Because of that rarity, **I am enjoying life** during my jackpot chance to exist. Everything I do, I do because I want to.
+The probability that the physical, biochemical, and social events occured in the exact sequence to produce me is [*unfathomably small*](https://visual.ly/community/infographic/science/what-are-odds). Therefore, I seek to enjoy life during my jackpot existence. Everything I do, I do because I want to.
 
-## <i class="fas fa-globe-africa" style="color:hsl(209, 100%, 50%)"></i> The chance to live is worth sharing
+## <i class="fas fa-globe-africa" style="color:hsl(160, 100%, 50%)"></i> The chance to live is worth sharing
 
-Grateful for my chance to live, I want to work so that other organisms---human or otherwise---can experience life as well. Storybooks taught us make the world a better place. How could you do anything else?
+Grateful for my chance to live, I work so that other organisms---human or otherwise---can experience life as well. Storybooks taught us make the world a better place. How could you do anything else?
