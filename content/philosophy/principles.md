@@ -17,7 +17,7 @@ weight = 2
 
 ## <i class="fas fa-gem" style="color:hsl(160, 100%, 50%)"></i> Life is rare, enjoy it
 
-The probability that the physical, biochemical, and social events occured in the exact sequence to produce me is [*unfathomably small*](https://visual.ly/community/infographic/science/what-are-odds). Therefore, I seek to enjoy life during my jackpot existence. Everything I do, I do because I want to.
+The probability that the physical, biochemical, and social events occurred in the exact sequence to produce me is [*unfathomably small*](https://visual.ly/community/infographic/science/what-are-odds). Therefore, I seek to enjoy life during my jackpot existence. Everything I do, I do because I want to.
 
 ## <i class="fas fa-globe-africa" style="color:hsl(160, 100%, 50%)"></i> The chance to live is worth sharing
 

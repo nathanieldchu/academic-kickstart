@@ -24,7 +24,7 @@ weight = 2
 ## <i class="fas fa-chart-line" style="color:hsl(339, 90%, 68%)"></i> Data
 
 * **Genomic data**: human genomes, bacterial genomes, viral genomes, metagenomics
-* **Gene expression data**: RNA-seq, single-cell RNA-seq, metatranscriptomic
+* **Gene expression data**: RNA-seq, single-cell RNA-seq, metatranscriptomics
 * **Metabolomic data**
 * **Immune repertoire data**: T cell receptors, B cell receptors
 

@@ -31,7 +31,7 @@ weight = 1
   icon = "tint"
   icon_pack = "fas"
   name = "Immune receptor dynamics"
-  description = "Before we can understand how to harness our immune system to diagnose and treat disease, we must first understand its internal dynamics. Using ecological priciples, I studied the longitudinal dynamics of the immune system (T-cell receptors) in patients and healthy controls."  
+  description = "Before we can understand how to harness our immune system to diagnose and treat disease, we must first understand its internal dynamics. Using ecological principles, I studied the longitudinal dynamics of the immune system (T-cell receptors) in patients and healthy controls."  
   
 [[feature]]
   icon = "diagnoses"

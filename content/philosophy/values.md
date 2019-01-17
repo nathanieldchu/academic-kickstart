@@ -25,7 +25,7 @@ I strive to analyze every action's inspiration, implementation, and consequence.
 
 ## <i class="fas fa-seedling" style="color:hsl(209, 100%, 50%)"></i> Seek growth
 
-Enjoying life optmizes two kinds of happiness: in-the-moment joy and life satisfaction. For the latter, I seek learning opportunities that fundamentally challenge my skills, beliefs, and confidence.
+Enjoying life optimizes two kinds of happiness: in-the-moment joy and life satisfaction. For the latter, I seek learning opportunities that fundamentally challenge my skills, beliefs, and confidence.
 
 ## <i class="fas fa-lock-open" style="color:hsl(209, 100%, 50%)"></i> Be open
 

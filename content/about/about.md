@@ -22,11 +22,11 @@ I am a PhD student and NSF Graduate Research Fellow with [Eric Alm](http://almla
 * Can we treat or prevent diseases (e.g., inflammatory bowel disease) by manipulating the gut microbiome---the bacteria, fungi, and viruses that live in our gut?
 * Can we diagnose diseases that lack robust clinical tests (e.g., depression) using metabolomics---a method that simultaneously measures thousand of molecules in blood or urine?
 
-Beyond human health, I also spend a lot of time thinking about sustainability and conservation. I persue personal growth outside of science through [alpinism](https://nathanieldchu.github.io/blog/) and [rock climbing](https://www.mountainproject.com/user/111841723/nd-chu).
+Beyond human health, I also spend a lot of time thinking about sustainability and conservation. I pursue personal growth outside of science through [alpinism](https://nathanieldchu.github.io/blog/) and [rock climbing](https://www.mountainproject.com/user/111841723/nd-chu).
 
 ## Where am I going?
 
-In my next stage, I am pivoting from academia to entrepreneuship to bring my research closer to the people it benefits. I am exploring the following positions:
+In my next stage, I am pivoting from academia to entrepreneurship to bring my research closer to the people it benefits. I am exploring the following positions:
 
 1. A post-doc aimed at proof-of-principle studies
 2. Founding a company
