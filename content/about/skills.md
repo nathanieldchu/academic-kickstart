@@ -24,13 +24,12 @@ weight = 2
 ## <i class="fas fa-chart-line" style="color:hsl(339, 90%, 68%)"></i> Data
 
 * **Genomic data**: human genomes, bacterial genomes, viral genomes, metagenomics
-* **Gene expression data**: RNA-seq, single-cell RNA-seq, metatranscriptomics
+* **Gene expression data**: single-cell RNA-seq, metatranscriptomics
 * **Metabolomic data**
 * **Immune repertoire data**: T cell receptors, B cell receptors
 
 ## <i class="fas fa-flask" style="color:hsl(339, 90%, 68%)"></i> Experiment
 
 * High-throughput data generation from **clinical** (e.g., blood, stool, biopsy) and **environmental** (e.g., water) samples
-* **Coordination of clinical sample collection** 
 * Obtaining **regulatory approval** for clinical trials and research
 * **Bacterial isolation** and genetic manipulation

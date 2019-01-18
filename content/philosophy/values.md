@@ -17,11 +17,11 @@ weight = 3
 
 ## <i class="fas fa-clock" style="color:hsl(209, 100%, 50%)"></i> Value time 
 
-Given the brevity of life, I want to make the most of every moment. Every second should be spent creating value, whether that value is to me, others, or the world. 
+Given the brevity of life, I want to make the most of every moment. Every second should be spent creating value, whether to me, others, or the world. 
 
 ## <i class="fas fa-brain" style="color:hsl(209, 100%, 50%)"></i> Live thoughtfully 
 
-I strive to analyze every action's inspiration, implementation, and consequence. Always ask why. Then ask how can it be better?
+I strive to analyze all of my actions: their inspiration, implementation, and consequence. Always ask why. Then ask how can it be better?
 
 ## <i class="fas fa-seedling" style="color:hsl(209, 100%, 50%)"></i> Seek growth
 

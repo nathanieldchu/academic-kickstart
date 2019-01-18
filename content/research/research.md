@@ -25,7 +25,7 @@ weight = 1
   icon = "poo-storm"
   icon_pack = "fas"
   name = "Fecal transplants"
-  description = "In a small trial of fecal transplants in patients with inflammatory bowel disease, we sought to answer two questions: (1) What bacteria, viruses, genes, and molecules colonize the recipient? (2) How does the new host respond? I led analysis and generation of datasets from stool, blood, and biopsies: 16S, metagenomics, bacterial isolates, whole-genome sequencing, viral sequencing, single-cell RNA sequencing, immune repertoire sequencing, immunoglobulin-A sequencing, and metabolomics."
+  description = "In a small trial of fecal transplants in patients with inflammatory bowel disease, we sought to answer two questions: (1) What bacteria, viruses, genes, and molecules colonize recipient patients? (2) How does the new host respond? I led analysis and generation of data from stool, blood, and biopsies: 16S, metagenomics, bacterial isolates, whole-genome sequencing, viral sequencing, single-cell RNA sequencing, immune repertoire sequencing, immunoglobulin-A sequencing, and metabolomics."
   
 [[feature]]
   icon = "tint"
