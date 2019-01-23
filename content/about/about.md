@@ -34,4 +34,4 @@ In my next stage, I am pivoting from academia to entrepreneurship to bring my re
 
 ## Where am I from?
 
-I grew up near Seattle, Washington in the shadow of Mount Rainier. I learned what I value and how to write from my mother. I learned how to be grateful for small moments from [my father](https://en.wikipedia.org/wiki/Cary_Lu). I learned how to eat Kraft mac and cheese with chopsticks from [my sister](https://www.instagram.com/meredithsarah22/). And I learned who I am at [YMCA Camp Orkila](https://www.seattleymca.org/camp-orkila). 
+I grew up on the Puget Sound near Seattle, Washington. I learned what I value and how to write from my mother. I learned how to be grateful for small moments from [my father](https://en.wikipedia.org/wiki/Cary_Lu). I learned how to eat Kraft mac and cheese with chopsticks from my sister. And I learned who I am at [YMCA Camp Orkila](https://www.seattleymca.org/camp-orkila). 

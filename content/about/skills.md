@@ -28,7 +28,7 @@ weight = 2
 * **Metabolomic data**
 * **Immune repertoire data**: T cell receptors, B cell receptors
 
-## <i class="fas fa-flask" style="color:hsl(339, 90%, 68%)"></i> Experiment
+## <i class="fas fa-flask" style="color:hsl(339, 90%, 68%)"></i> Experiments
 
 * High-throughput data generation from **clinical** (e.g., blood, stool, biopsy) and **environmental** (e.g., water) samples
 * Obtaining **regulatory approval** for clinical trials and research

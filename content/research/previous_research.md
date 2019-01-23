@@ -25,7 +25,7 @@ weight = 2
   icon = "dna"
   icon_pack = "fas"
   name = "Mobile-element driven mutation"
-  description = "We identified a prophage-driven mechanism for hypermutation present in a diverse array of clinical and environmental bacteria."  
+  description = "My colleagues and I identified a prophage-driven mechanism for hypermutation present in a diverse array of clinical and environmental bacteria."  
 
 [[feature]]
   icon = "fish"
@@ -37,6 +37,6 @@ weight = 2
   icon = "water"
   icon_pack = "fas"
   name = "Coastal phylogenomics"
-  description = "I identified genetic population structure in a marine snail that mirrored its colonization history and possible thermal adaptation."  
+  description = "I identified a genetic population structure in a marine snail that mirrored the snail's colonization history and possible thermal adaptation."  
 
 +++

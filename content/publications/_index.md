@@ -5,7 +5,7 @@ widgets = false  # Page type is a Widget Page.
 summary = ""  # Add a page description.
 +++
 
-(* corresponding author, † equal contribution)
+(* corresponding author, † equal contributor)
 
 <i class="fas fa-poo-storm"></i> **Chu ND**, Crothers, JW, [. . .] Clish CB, Moses PL, Xavier RJ, Alm EJ. (in prep) Colonization of microbes, virus, and molecules alter immunological trajectories of inflammatory bowel disease patients receiving fecal microbiota transplants. 
 

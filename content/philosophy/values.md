@@ -21,11 +21,11 @@ Given the brevity of life, I want to make the most of every moment. Every second
 
 ## <i class="fas fa-brain" style="color:hsl(209, 100%, 50%)"></i> Live thoughtfully 
 
-I strive to analyze all of my actions: their inspiration, implementation, and consequence. Always ask why. Then ask how can it be better?
+I strive to analyze all of my actions: their inspiration, implementation, and consequence. Always ask why. Then ask, How can it be better?
 
 ## <i class="fas fa-seedling" style="color:hsl(209, 100%, 50%)"></i> Seek growth
 
-Enjoying life optimizes two kinds of happiness: in-the-moment joy and life satisfaction. For the latter, I seek learning opportunities that fundamentally challenge my skills, beliefs, and confidence.
+Enjoying life optimizes two kinds of happiness: in-the-moment joy and overall life satisfaction. For the latter, I continually seek learning opportunities that fundamentally challenge my skills, beliefs, and confidence.
 
 ## <i class="fas fa-lock-open" style="color:hsl(209, 100%, 50%)"></i> Be open
 
