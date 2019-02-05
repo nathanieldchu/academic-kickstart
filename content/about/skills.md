@@ -17,6 +17,7 @@ weight = 2
 
 ## <i class="fas fa-laptop" style="color:hsl(339, 90%, 68%)"></i> Computation
 
+* Bioinformatic analysis: alignment, assembly, annotation, phylogenetics
 * Statistical analysis and machine learning in <i class="fab fa-python" style="color:hsl(339, 90%, 68%)"></i> **Python** and <i class="fab fa-r-project" style="color:hsl(339, 90%, 68%)"></i>
 * <i class="fab fa-linux" style="color:hsl(339, 90%, 68%)"></i> (**Unix**) environment and virtual environments
 * Administration and scaling of cloud computing with <i class="fab fa-aws" style="color:hsl(339, 90%, 68%)"></i>

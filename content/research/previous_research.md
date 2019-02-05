@@ -24,7 +24,7 @@ weight = 2
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
-  name = "Mobile-element driven mutation"
+  name = "Mobile-element-driven mutation"
   description = "My colleagues and I identified a prophage-driven mechanism for hypermutation present in a diverse array of clinical and environmental bacteria."  
 
 [[feature]]
